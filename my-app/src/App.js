@@ -8,9 +8,9 @@ function App() {
         <div className="column">
           <h2>Projects</h2>
           <ul>
-            <li><a href="#link1">Link 1</a></li>
-            <li><a href="#link2">Link 2</a></li>
-            <li><a href="#link3">Link 3</a></li>
+            <li><a href="https://github.com/SeanAverS/guitar-store-locator">Guitar Store Locator</a></li>
+            <li><a href="https://github.com/SeanAverS/john-mayer-player">John Mayer Player</a></li>
+            <li><a href="https://github.com/SeanAverS/Guitar-Website-">Guitar Website (HTML/CSS)</a></li>
           </ul>
         </div>
       </header>
