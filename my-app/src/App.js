@@ -10,7 +10,8 @@ function App() {
           <ul>
             <li><a href="https://github.com/SeanAverS/guitar-store-locator">Guitar Store Locator</a></li>
             <li><a href="https://github.com/SeanAverS/john-mayer-player">John Mayer Player</a></li>
-            <li><a href="https://github.com/SeanAverS/Guitar-Website-">Guitar Website (HTML/CSS)</a></li>
+            <li><a href="https://github.com/SeanAverS/Guitar-Website-">Guitar Website</a></li>
+            <li><a href="https://github.com/SeanAverS/Pomo">Pomo</a></li>
           </ul>
         </div>
       </header>
