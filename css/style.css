@@ -1,0 +1,81 @@
+body {
+  background-color: #f8f9fa;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 700 !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #6c757d;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: #343a40 !important;
+  font-weight: 500;
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #343a40;
+  font-weight: 600;
+}
+
+p {
+  color: #6c757d;
+  line-height: 1.7;
+}
+
+.card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.08) !important;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.btn-outline-dark {
+  border-color: #343a40;
+  color: #343a40;
+}
+
+.btn-outline-dark:hover {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  border-color: #343a40;
+  color: #fff;
+}
+
+.btn-dark:hover {
+  background-color: #212529;
+  border-color: #212529;
+}
+
+.badge.bg-secondary {
+  background-color: #6c757d !important;
+  font-weight: 500;
+  padding: 0.4em 0.7em;
+}
+
+footer p {
+  color: #adb5bd !important;
+}
