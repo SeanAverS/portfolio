@@ -86,3 +86,8 @@ footer p {
   object-fit: cover;
   object-position: top;
 }
+
+#hero {
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+}
