@@ -91,3 +91,9 @@ footer p {
   padding-top: 12rem;
   padding-bottom: 12rem;
 }
+
+
+
+section {
+  scroll-margin-top: 30px;
+}
