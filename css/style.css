@@ -107,3 +107,28 @@ section {
 .company-link:hover {
     color: #0981cc; 
 }
+
+@media (max-width: 768px) {
+    #quick-menu .container {
+        justify-content: center !important;
+    }
+
+    .navbar-nav {
+        flex-direction: row !important;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 400px; 
+    }
+
+    .nav-link {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 0.85rem; 
+    }
+
+    .nav-link i {
+        margin-right: 0 !important;
+        font-size: 1.2rem;
+    }
+}
